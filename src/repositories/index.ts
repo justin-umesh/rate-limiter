@@ -1,0 +1,1 @@
+export * as ClientRepo from './client.repository';
